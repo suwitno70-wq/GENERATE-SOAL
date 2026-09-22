@@ -1,0 +1,6 @@
+{
+  "name": "AI GENERATOR SOAL MI",
+  "description": "Aplikasi pembuatan naskah soal, kisi-kisi, validasi mutu soal, dan bank soal berbasis AI terintegrasi untuk guru Madrasah Ibtidaiyah - Kreatif by Witno.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
